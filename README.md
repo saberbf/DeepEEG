@@ -1,0 +1,2 @@
+# DeepEEG
+In this project, the goal is to train a Bayesian Neural Network classifier on EEG data to predict memorization based on brain state. The hypothesis is that classification accuracy using BNNs will be able to outperform non-probabilistic learning methods. We provide analysis of each of these hypotheses by comparing networks with varying depth and layer size to a Support Vector Machine Classifier.
